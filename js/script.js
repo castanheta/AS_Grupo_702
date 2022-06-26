@@ -29,7 +29,7 @@ function validate() {
 
         if ((username == "João Monteiro") && (password == "1234")) {
             alert("login succesfull");
-            location.href = "index.html";
+            location.href = "indexl.html";
 
 
         } else {
