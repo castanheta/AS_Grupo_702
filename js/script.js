@@ -62,7 +62,7 @@ function sing() {
 
 function singi() {
     alert("Tudo confimado. Bem-vindo ao FitLink");
-    location.href = "index.html";
+    location.href = "indexl.html";
 
 }
 
